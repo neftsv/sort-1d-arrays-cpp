@@ -1,0 +1,5 @@
+C:\Users\SV\source\repos\Array Sorting Algirithms\Array Sorting Algirithms\Debug\Array Sorting Algirithms.vcxprojAssemblyReference.cache
+C:\Users\SV\source\repos\Array Sorting Algirithms\Array Sorting Algirithms\Debug\ArraySortingAlgirithms.MyForm.resources
+C:\Users\SV\source\repos\Array Sorting Algirithms\Array Sorting Algirithms\Debug\Array Sorting Algirithms.vcxproj.GenerateResource.cache
+C:\Users\SV\source\repos\Array Sorting Algirithms\Array Sorting Algirithms\Debug\ArraySortingAlgirithms.MyForm1.resources
+C:\Users\SV\source\repos\Array Sorting Algirithms\Array Sorting Algirithms\Debug\ArraySortingAlgirithms.MyForm2.resources
